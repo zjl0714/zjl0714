@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm Junlong "Aaron" Zhou, a Ph.D. student in Political Economy from NYU. 
+I'm Junlong "Aaron" Zhou, a Sr. Data Scientist at Tencent America. 
 
-I work on positive political economy and political methodology (you may call it applied statistics, or econometrics in your field). You may find some of my research [here](https://scholar.google.com/citations?user=LadSnrMAAAAJ).
+Prior to Tencent, I did my Ph.D. studies in Political Economy at New York University.
+
+I work on experimentation and causal inference. I also conduct academic research on positive political economy and political methodology (you may call it applied statistics, or econometrics in your field). You may find some of my research [here](https://scholar.google.com/citations?user=LadSnrMAAAAJ).
 
 You may also find some of my teaching material in pinned repositories. 
 
