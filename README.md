@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm Junlong "Aaron" Zhou, a Staff Data Scientist at Tencent America. 
+I'm Junlong "Aaron" Zhou, a Sr Scientist at Uber. 
 
-Prior to Tencent Americas, I did my Ph.D. studies in Political Economy at New York University.
+Prior to Uber, I have worked at Tencent America, Amazon.
+
+I finished my Ph.D. studies in Political Economy at New York University.
 
 I work on experimentation and causal inference. I also conduct academic research on positive political economy and political methodology (you may call it applied statistics, or econometrics in your field). You may find some of my research [here](https://scholar.google.com/citations?user=LadSnrMAAAAJ).
 
