@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Junlong "Aaron" Zhou, a Sr Scientist at Uber. 
+I'm Junlong "Aaron" Zhou, a Sr Scientist at Uber.  I work on experimentation and causal analytics on user growth. I also work on building AI tool for internal team usage.
 
 Prior to Uber, I have worked at Tencent America, Amazon.
 
